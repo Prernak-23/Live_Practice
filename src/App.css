@@ -1,0 +1,19 @@
+
+.app{
+  text-align: center;
+  color: #130342;
+  height: 100vh;
+  background-color: #d7e4e9;
+}
+
+.message{
+  padding: 10px 40px;
+  background-color: #f5f7d8;
+  color: #03003b;
+}
+
+.input{
+  border: 2px solid #03003b;
+  border-radius: 5px;
+  padding: 10px 40px;
+}

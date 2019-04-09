@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #d7e4e9;
+}
+
+.main {
+    text-align: center;
+}
+
+.listButton {
+    padding: 10px 40px;
+    border: 1px solid darkblue;
+    border-radius: 5px;
+    background: #03003b;
+    color: #f2f1a8;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.listButton:hover {
+    background: #040be9;
+    cursor: pointer;
+}
+
+.todo-input{
+    padding: 10px 40px;
+    border: 2px solid #03003b;
+    border-radius: 5px;
+    background: #faffcb;
+    color: #03003b;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+
+}
